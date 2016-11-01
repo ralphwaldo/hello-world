@@ -1,2 +1,3 @@
 # hello-world
-a hw repo
+a hello world repository
+basically editing for the hell of it now
